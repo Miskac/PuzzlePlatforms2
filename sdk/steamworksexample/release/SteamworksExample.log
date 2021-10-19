@@ -1,0 +1,36 @@
+﻿  BaseMenu.cpp
+  clanchatroom.cpp
+  connectingmenu.cpp
+  Friends.cpp
+  gameenginewin32.cpp
+  htmlsurface.cpp
+  Inventory.cpp
+  Leaderboards.cpp
+  Lobby.cpp
+  Main.cpp
+  MainMenu.cpp
+  musicplayer.cpp
+  p2pauth.cpp
+  PhotonBeam.cpp
+  QuitMenu.cpp
+  RemotePlay.cpp
+  RemoteStorage.cpp
+  ServerBrowser.cpp
+  Ship.cpp
+  SpaceWarClient.cpp
+  Compiling...
+  SpaceWarEntity.cpp
+  SpaceWarServer.cpp
+  StarField.cpp
+  StatsAndAchievements.cpp
+  stdafx.cpp
+  Sun.cpp
+  VectorEntity.cpp
+  voicechat.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3030 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SteamworksExample.vcxproj -> C:\Programiranje\marko\programiranje unreal\Multiplayer\PuzzlePlatforms\sdk\steamworksexample\Release\SteamworksExample.exe
+          1 file(s) copied.
+          1 file(s) copied.
